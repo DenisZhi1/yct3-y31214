@@ -1,0 +1,21 @@
+{
+  "generator": "OpenAI built-in image_gen",
+  "reusedSeriesArtwork": true,
+  "prompts": [
+    {
+      "asset": "cover",
+      "prompt": "Create a premium 16:9 catalogue cover for a Chinese listening-and-reading practice test in an existing ivory and dark jade series. Exact enormous title: “YCT 3 · Y31214”, perfectly spelled, large dark jade refined serif typography across the upper half, safe margins, all characters highly readable at thumbnail size. Warm sunlit pale wooden desk, open blank ivory workbook, dark jade headphones beside the book, a slim green pencil, delicate bamboo leaves framing one corner. Tactile paper grain, refined gouache with soft realistic 3D depth, warm ivory and sage palette, calm inviting educational mood. No other text, logos, exercise samples, Chinese glyph examples or answer clues. Wide composition to crop cleanly to 1200x675.",
+      "transparent": false
+    },
+    {
+      "asset": "paper",
+      "prompt": "Series artwork reused from the approved YCT 3 interface.",
+      "transparent": false
+    },
+    {
+      "asset": "resultsHero",
+      "prompt": "Series artwork reused from the approved YCT 3 interface.",
+      "transparent": true
+    }
+  ]
+}
